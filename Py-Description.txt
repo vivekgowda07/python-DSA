@@ -7,4 +7,5 @@ Python DSA includes many topics
 6.recursion
 
 
-IT all involves OOOPS concepts to impliment the dsa
+It all involves OOOPS concepts to impliment the dsa
+OOPS-> inheritence is most commonly used
