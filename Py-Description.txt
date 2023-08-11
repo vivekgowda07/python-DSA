@@ -7,7 +7,7 @@ Python DSA includes many topics
 6.recursion
 7.trees
 8.graphs
-
+complete
 
 It all involves OOOPS concepts to impliment the dsa
 OOPS-> inheritence is most commonly used
